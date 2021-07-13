@@ -1,0 +1,546 @@
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Green Bay GB,Chicago CHI,"GB 10, CHI 3",Mitchell Trubisky 228,Aaron Jones 39,Allen Robinson II 102,401127913,2019,1,False
+0,Tennessee TEN,Cleveland CLE,"TEN 43, CLE 13",Baker Mayfield 285,Derrick Henry 84,A.J. Brown 100,401127928,2019,1,False
+1,Baltimore BAL,Miami MIA,"BAL 59, MIA 10",Lamar Jackson 324,Mark Ingram II 107,Marquise Brown 147,401127954,2019,1,False
+2,Atlanta ATL,Minnesota MIN,"MIN 28, ATL 12",Matt Ryan 304,Dalvin Cook 111,Austin Hooper 77,401127961,2019,1,False
+3,Buffalo BUF,New York NYJ,"BUF 17, NYJ 16",Josh Allen 254,Devin Singletary 70,John Brown 123,401127963,2019,1,False
+4,Washington WSH,Philadelphia PHI,"PHI 32, WSH 27",Case Keenum 380,Darren Sproles 47,DeSean Jackson 154,401127968,2019,1,False
+5,Los Angeles LAR,Carolina CAR,"LAR 30, CAR 27",Cam Newton 239,Christian McCaffrey 128,Christian McCaffrey 81,401127923,2019,1,False
+6,Kansas City KC,Jacksonville JAX,"KC 40, JAX 26",Patrick Mahomes 378,LeSean McCoy 81,Sammy Watkins 198,401127931,2019,1,False
+7,Indianapolis IND,Los Angeles LAC,"LAC 30, IND 24 (OT)",Philip Rivers 333,Marlon Mack 174,Keenan Allen 123,401127972,2019,1,False
+8,Cincinnati CIN,Seattle SEA,"SEA 21, CIN 20",Andy Dalton 418,Chris Carson 46,John Ross 158,401127995,2019,1,False
+9,New York NYG,Dallas DAL,"DAL 35, NYG 17",Dak Prescott 405,Saquon Barkley 120,Michael Gallup 158,401128007,2019,1,False
+10,Detroit DET,Arizona ARI,"DET 27, ARI 27 (OT)",Matthew Stafford 385,David Johnson 82,T.J. Hockenson 131,401127999,2019,1,False
+11,San Francisco SF,Tampa Bay TB,"SF 31, TB 17",Jameis Winston 194,Ronald Jones II 75,George Kittle 54,401128010,2019,1,False
+12,Pittsburgh PIT,New England NE,"NE 33, PIT 3",Tom Brady 341,Rex Burkhead 44,Phillip Dorsett II 95,401127860,2019,1,False
+0,Houston HOU,New Orleans NO,"NO 30, HOU 28",Drew Brees 370,Alvin Kamara 97,Michael Thomas 123,401128021,2019,1,False
+1,Denver DEN,Oakland OAK,"OAK 24, DEN 16",Joe Flacco 268,Josh Jacobs 85,Courtland Sutton 120,401128025,2019,1,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Tampa Bay TB,Carolina CAR,"TB 20, CAR 14",Cam Newton 333,Peyton Barber 82,Chris Godwin 121,401128054,2019,2,False
+0,San Francisco SF,Cincinnati CIN,"SF 41, CIN 17",Andy Dalton 311,Matt Breida 121,Tyler Boyd 122,401128066,2019,2,False
+1,Los Angeles LAC,Detroit DET,"DET 13, LAC 10",Philip Rivers 293,Austin Ekeler 66,Kenny Golladay 117,401128072,2019,2,False
+2,Minnesota MIN,Green Bay GB,"GB 21, MIN 16",Kirk Cousins 230,Dalvin Cook 154,Davante Adams 106,401128098,2019,2,False
+3,Indianapolis IND,Tennessee TEN,"IND 19, TEN 17",Marcus Mariota 154,Derrick Henry 82,T.Y. Hilton 43,401128114,2019,2,False
+4,New England NE,Miami MIA,"NE 43, MIA 0",Tom Brady 264,Sony Michel 83,Preston Williams 63,401127862,2019,2,False
+5,Buffalo BUF,New York NYG,"BUF 28, NYG 14",Josh Allen 253,Saquon Barkley 107,Cole Beasley 83,401128106,2019,2,False
+6,Seattle SEA,Pittsburgh PIT,"SEA 28, PIT 26",Russell Wilson 300,Rashaad Penny 62,JuJu Smith-Schuster 84,401128110,2019,2,False
+7,Dallas DAL,Washington WSH,"DAL 31, WSH 21",Dak Prescott 269,Ezekiel Elliott 111,Devin Smith 74,401128115,2019,2,False
+8,Arizona ARI,Baltimore BAL,"BAL 23, ARI 17",Kyler Murray 349,Lamar Jackson 120,Christian Kirk 114,401128061,2019,2,False
+9,Jacksonville JAX,Houston HOU,"HOU 13, JAX 12",Gardner Minshew II 213,Carlos Hyde 90,Chris Conley 73,401128101,2019,2,False
+10,Kansas City KC,Oakland OAK,"KC 28, OAK 10",Patrick Mahomes 443,Josh Jacobs 99,Demarcus Robinson 172,401128118,2019,2,False
+11,Chicago CHI,Denver DEN,"CHI 16, DEN 14",Joe Flacco 292,David Montgomery 62,Emmanuel Sanders 98,401128120,2019,2,False
+12,New Orleans NO,Los Angeles LAR,"LAR 27, NO 9",Jared Goff 283,Todd Gurley II 63,Cooper Kupp 120,401128122,2019,2,False
+13,Philadelphia PHI,Atlanta ATL,"ATL 24, PHI 20",Matt Ryan 320,Ito Smith 32,Nelson Agholor 107,401128124,2019,2,False
+0,Cleveland CLE,New York NYJ,"CLE 23, NYJ 3",Baker Mayfield 325,Le'Veon Bell 68,Odell Beckham Jr. 161,401128127,2019,2,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Tennessee TEN,Jacksonville JAX,"JAX 20, TEN 7",Marcus Mariota 304,Leonard Fournette 66,Adam Humphries 93,401127859,2019,3,False
+0,Cincinnati CIN,Buffalo BUF,"BUF 21, CIN 17",Andy Dalton 250,Frank Gore 76,Auden Tate 88,401127915,2019,3,False
+1,Miami MIA,Dallas DAL,"DAL 31, MIA 6",Dak Prescott 246,Ezekiel Elliott 125,Amari Cooper 88,401127921,2019,3,False
+2,Denver DEN,Green Bay GB,"GB 27, DEN 16",Aaron Rodgers 235,Phillip Lindsay 81,Marquez Valdes-Scantling 99,401127925,2019,3,False
+3,Atlanta ATL,Indianapolis IND,"IND 27, ATL 24",Jacoby Brissett 310,Devonta Freeman 88,Julio Jones 128,401127929,2019,3,False
+4,Baltimore BAL,Kansas City KC,"KC 33, BAL 28",Patrick Mahomes 374,Mark Ingram II 103,Mecole Hardman 97,401127953,2019,3,False
+5,Oakland OAK,Minnesota MIN,"MIN 34, OAK 14",Derek Carr 242,Dalvin Cook 110,Darren Waller 134,401127956,2019,3,False
+6,New York NYJ,New England NE,"NE 30, NYJ 14",Tom Brady 306,Rex Burkhead 47,Josh Gordon 83,401127861,2019,3,False
+7,Detroit DET,Philadelphia PHI,"DET 27, PHI 24",Carson Wentz 259,Miles Sanders 53,Marvin Jones Jr. 101,401127959,2019,3,False
+8,Carolina CAR,Arizona ARI,"CAR 38, ARI 20",Kyle Allen 261,Christian McCaffrey 153,Greg Olsen 75,401127962,2019,3,False
+9,New York NYG,Tampa Bay TB,"NYG 32, TB 31",Jameis Winston 380,Ronald Jones II 80,Mike Evans 190,401127966,2019,3,False
+10,Houston HOU,Los Angeles LAC,"HOU 27, LAC 20",Deshaun Watson 351,Austin Ekeler 36,Keenan Allen 183,401127970,2019,3,False
+11,Pittsburgh PIT,San Francisco SF,"SF 24, PIT 20",Jimmy Garoppolo 277,Raheem Mostert 79,JuJu Smith-Schuster 81,401127998,2019,3,False
+12,New Orleans NO,Seattle SEA,"NO 33, SEA 27",Russell Wilson 406,Alvin Kamara 69,Tyler Lockett 154,401127993,2019,3,False
+13,Los Angeles LAR,Cleveland CLE,"LAR 20, CLE 13",Jared Goff 268,Nick Chubb 96,Brandin Cooks 112,401128125,2019,3,False
+0,Chicago CHI,Washington WSH,"CHI 31, WSH 15",Case Keenum 332,David Montgomery 67,Paul Richardson Jr. 83,401128003,2019,3,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Philadelphia PHI,Green Bay GB,"PHI 34, GB 27",Aaron Rodgers 422,Jordan Howard 87,Davante Adams 180,401127863,2019,4,False
+0,Tennessee TEN,Atlanta ATL,"TEN 24, ATL 10",Matt Ryan 397,Derrick Henry 100,Austin Hooper 130,401128016,2019,4,False
+1,New England NE,Buffalo BUF,"NE 16, BUF 10",Josh Allen 153,Frank Gore 109,Cole Beasley 75,401127866,2019,4,False
+2,Kansas City KC,Detroit DET,"KC 34, DET 30",Patrick Mahomes 315,Kerryon Johnson 125,Travis Kelce 85,401128023,2019,4,False
+3,Oakland OAK,Indianapolis IND,"OAK 31, IND 24",Jacoby Brissett 265,Josh Jacobs 79,Zach Pascal 72,401128030,2019,4,False
+4,Los Angeles LAC,Miami MIA,"LAC 30, MIA 10",Philip Rivers 310,Austin Ekeler 60,Dontrelle Inman 76,401128055,2019,4,False
+5,Washington WSH,New York NYG,"NYG 24, WSH 3",Daniel Jones 225,Wayne Gallman 63,Sterling Shepard 76,401128059,2019,4,False
+6,Cleveland CLE,Baltimore BAL,"CLE 40, BAL 25",Baker Mayfield 342,Nick Chubb 165,Jarvis Landry 167,401128018,2019,4,False
+7,Carolina CAR,Houston HOU,"CAR 16, HOU 10",Kyle Allen 232,Christian McCaffrey 93,Christian McCaffrey 86,401128026,2019,4,False
+8,Tampa Bay TB,Los Angeles LAR,"TB 55, LAR 40",Jared Goff 517,Ronald Jones II 70,Chris Godwin 172,401128069,2019,4,False
+9,Seattle SEA,Arizona ARI,"SEA 27, ARI 10",Kyler Murray 241,Chris Carson 104,David Johnson 99,401128064,2019,4,False
+10,Minnesota MIN,Chicago CHI,"CHI 16, MIN 6",Kirk Cousins 233,David Montgomery 53,Stefon Diggs 108,401128093,2019,4,False
+11,Jacksonville JAX,Denver DEN,"JAX 26, DEN 24",Joe Flacco 303,Leonard Fournette 225,Emmanuel Sanders 104,401128097,2019,4,False
+12,Dallas DAL,New Orleans NO,"NO 12, DAL 10",Dak Prescott 223,Alvin Kamara 69,Michael Thomas 95,401128102,2019,4,False
+0,Cincinnati CIN,Pittsburgh PIT,"PIT 27, CIN 3",Mason Rudolph 229,Joe Mixon 62,James Conner 83,401128109,2019,4,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Los Angeles LAR,Seattle SEA,"SEA 30, LAR 29",Jared Goff 395,Chris Carson 118,Gerald Everett 136,401127927,2019,5,False
+0,Arizona ARI,Cincinnati CIN,"ARI 26, CIN 23",Andy Dalton 262,Kyler Murray 93,Tyler Boyd 123,401127958,2019,5,False
+1,Buffalo BUF,Tennessee TEN,"BUF 14, TEN 7",Josh Allen 219,Derrick Henry 78,John Brown 75,401128014,2019,5,False
+2,Chicago CHI,Oakland OAK,"OAK 24, CHI 21",Chase Daniel 231,Josh Jacobs 123,Allen Robinson II 97,401128001,2019,5,False
+3,Tampa Bay TB,New Orleans NO,"NO 31, TB 24",Teddy Bridgewater 314,Alvin Kamara 62,Michael Thomas 182,401127965,2019,5,False
+4,Minnesota MIN,New York NYG,"MIN 28, NYG 10",Kirk Cousins 306,Dalvin Cook 132,Adam Thielen 130,401127971,2019,5,False
+5,New York NYJ,Philadelphia PHI,"PHI 31, NYJ 6",Carson Wentz 189,Jordan Howard 62,Zach Ertz 57,401128006,2019,5,False
+6,Baltimore BAL,Pittsburgh PIT,"BAL 26, PIT 23 (OT)",Lamar Jackson 161,Lamar Jackson 70,JuJu Smith-Schuster 75,401128011,2019,5,False
+7,New England NE,Washington WSH,"NE 33, WSH 7",Tom Brady 348,Sony Michel 91,Julian Edelman 110,401127864,2019,5,False
+8,Jacksonville JAX,Carolina CAR,"CAR 34, JAX 27",Gardner Minshew II 374,Christian McCaffrey 176,DJ Chark Jr. 164,401127932,2019,5,False
+9,Atlanta ATL,Houston HOU,"HOU 53, ATL 32",Deshaun Watson 426,Carlos Hyde 60,William Fuller V 217,401127960,2019,5,False
+10,Denver DEN,Los Angeles LAC,"DEN 20, LAC 13",Philip Rivers 211,Phillip Lindsay 114,Courtland Sutton 92,401128019,2019,5,False
+11,Green Bay GB,Dallas DAL,"GB 34, DAL 24",Dak Prescott 463,Aaron Jones 107,Amari Cooper 226,401128029,2019,5,False
+12,Indianapolis IND,Kansas City KC,"IND 19, KC 13",Patrick Mahomes 321,Marlon Mack 132,Byron Pringle 103,401128053,2019,5,False
+0,Cleveland CLE,San Francisco SF,"SF 31, CLE 3",Jimmy Garoppolo 181,Matt Breida 114,Jarvis Landry 75,401128062,2019,5,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,New York NYG,New England NE,"NE 35, NYG 14",Tom Brady 334,Sony Michel 86,Julian Edelman 113,401127917,2019,6,False
+0,Carolina CAR,Tampa Bay TB,"CAR 37, TB 26",Jameis Winston 400,Christian McCaffrey 31,Chris Godwin 151,401128096,2019,6,False
+1,Seattle SEA,Cleveland CLE,"SEA 32, CLE 28",Russell Wilson 295,Chris Carson 124,Odell Beckham Jr. 101,401128111,2019,6,False
+2,Houston HOU,Kansas City KC,"HOU 31, KC 24",Deshaun Watson 280,Carlos Hyde 116,Tyreek Hill 80,401128119,2019,6,False
+3,Washington WSH,Miami MIA,"WSH 17, MIA 16",Case Keenum 166,Adrian Peterson 118,Terry McLaurin 100,401128121,2019,6,False
+4,Philadelphia PHI,Minnesota MIN,"MIN 38, PHI 20",Kirk Cousins 333,Alexander Mattison 63,Stefon Diggs 167,401128123,2019,6,False
+5,New Orleans NO,Jacksonville JAX,"NO 13, JAX 6",Teddy Bridgewater 240,Leonard Fournette 72,Michael Thomas 89,401128116,2019,6,False
+6,Cincinnati CIN,Baltimore BAL,"BAL 23, CIN 17",Lamar Jackson 236,Lamar Jackson 152,Mark Andrews 99,401128105,2019,6,False
+7,San Francisco SF,Los Angeles LAR,"SF 20, LAR 7",Jimmy Garoppolo 243,Tevin Coleman 45,George Kittle 103,401128128,2019,6,False
+8,Atlanta ATL,Arizona ARI,"ARI 34, ATL 33",Matt Ryan 356,Devonta Freeman 88,Austin Hooper 117,401128126,2019,6,False
+9,Tennessee TEN,Denver DEN,"DEN 16, TEN 0",Joe Flacco 177,Phillip Lindsay 70,Courtland Sutton 76,401128129,2019,6,False
+10,Dallas DAL,New York NYJ,"NYJ 24, DAL 22",Sam Darnold 338,Ezekiel Elliott 105,Robby Anderson 125,401128130,2019,6,False
+11,Pittsburgh PIT,Los Angeles LAC,"PIT 24, LAC 17",Philip Rivers 320,Benny Snell Jr. 75,Hunter Henry 100,401128131,2019,6,False
+0,Detroit DET,Green Bay GB,"GB 23, DET 22",Aaron Rodgers 283,Jamaal Williams 104,Kenny Golladay 121,401128132,2019,6,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Kansas City KC,Denver DEN,"KC 30, DEN 6",Joe Flacco 213,LeSean McCoy 64,Courtland Sutton 87,401127902,2019,7,False
+0,Los Angeles LAR,Atlanta ATL,"LAR 37, ATL 10",Jared Goff 268,Todd Gurley II 41,Julio Jones 93,401127940,2019,7,False
+1,Miami MIA,Buffalo BUF,"BUF 31, MIA 21",Ryan Fitzpatrick 282,Mark Walton 66,John Brown 83,401127942,2019,7,False
+2,Jacksonville JAX,Cincinnati CIN,"JAX 27, CIN 17",Andy Dalton 276,Leonard Fournette 131,Alex Erickson 137,401127945,2019,7,False
+3,Minnesota MIN,Detroit DET,"MIN 42, DET 30",Matthew Stafford 364,Dalvin Cook 142,Stefon Diggs 143,401127947,2019,7,False
+4,Oakland OAK,Green Bay GB,"GB 42, OAK 24",Aaron Rodgers 429,Josh Jacobs 124,Marquez Valdes-Scantling 133,401127949,2019,7,False
+5,Houston HOU,Indianapolis IND,"IND 30, HOU 23",Jacoby Brissett 326,Marlon Mack 44,Zach Pascal 106,401127951,2019,7,False
+6,Arizona ARI,New York NYG,"ARI 27, NYG 21",Daniel Jones 223,Chase Edmonds 126,Golden Tate 80,401127974,2019,7,False
+7,San Francisco SF,Washington WSH,"SF 9, WSH 0",Jimmy Garoppolo 151,Adrian Peterson 81,Kendrick Bourne 69,401127977,2019,7,False
+8,Los Angeles LAC,Tennessee TEN,"TEN 23, LAC 20",Philip Rivers 329,Derrick Henry 90,Austin Ekeler 118,401127979,2019,7,False
+9,New Orleans NO,Chicago CHI,"NO 36, CHI 25",Teddy Bridgewater 281,Latavius Murray 119,Michael Thomas 131,401127982,2019,7,False
+10,Baltimore BAL,Seattle SEA,"BAL 30, SEA 16",Russell Wilson 241,Lamar Jackson 116,Tyler Lockett 61,401127985,2019,7,False
+11,Philadelphia PHI,Dallas DAL,"DAL 37, PHI 10",Dak Prescott 239,Ezekiel Elliott 111,Amari Cooper 106,401127987,2019,7,False
+0,New England NE,New York NYJ,"NE 33, NYJ 0",Tom Brady 249,Le'Veon Bell 70,James White 59,401127894,2019,7,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Washington WSH,Minnesota MIN,"MIN 19, WSH 9",Kirk Cousins 285,Dalvin Cook 98,Stefon Diggs 143,401127905,2019,8,False
+0,Seattle SEA,Atlanta ATL,"SEA 27, ATL 20",Matt Schaub 460,Chris Carson 90,Julio Jones 152,401128035,2019,8,False
+1,Philadelphia PHI,Buffalo BUF,"PHI 31, BUF 13",Carson Wentz 172,Jordan Howard 96,Alshon Jeffery 64,401128037,2019,8,False
+2,Los Angeles LAC,Chicago CHI,"LAC 17, CHI 16",Mitchell Trubisky 253,David Montgomery 135,Mike Williams 69,401128039,2019,8,False
+3,New York NYG,Detroit DET,"DET 31, NYG 26",Matthew Stafford 342,Saquon Barkley 64,Kenny Golladay 123,401128042,2019,8,False
+4,Tampa Bay TB,Tennessee TEN,"TEN 27, TB 23",Jameis Winston 301,Derrick Henry 75,Mike Evans 198,401128048,2019,8,False
+5,Denver DEN,Indianapolis IND,"IND 15, DEN 13",Jacoby Brissett 202,Marlon Mack 76,Courtland Sutton 72,401128051,2019,8,False
+6,Cincinnati CIN,Los Angeles LAR,"LAR 24, CIN 10",Jared Goff 372,Joe Mixon 66,Cooper Kupp 220,401127912,2019,8,False
+7,Arizona ARI,New Orleans NO,"NO 31, ARI 9",Drew Brees 373,Latavius Murray 102,Michael Thomas 112,401128046,2019,8,False
+8,New York NYJ,Jacksonville JAX,"JAX 29, NYJ 15",Gardner Minshew II 279,Leonard Fournette 76,Chris Conley 103,401128045,2019,8,False
+9,Carolina CAR,San Francisco SF,"SF 51, CAR 13",Jimmy Garoppolo 175,Christian McCaffrey 117,George Kittle 86,401128050,2019,8,False
+10,Cleveland CLE,New England NE,"NE 27, CLE 13",Tom Brady 259,Nick Chubb 131,Julian Edelman 78,401127895,2019,8,False
+11,Oakland OAK,Houston HOU,"HOU 27, OAK 24",Derek Carr 285,Carlos Hyde 83,DeAndre Hopkins 109,401128043,2019,8,False
+12,Green Bay GB,Kansas City KC,"GB 31, KC 24",Aaron Rodgers 305,Aaron Jones 67,Aaron Jones 159,401128073,2019,8,False
+0,Miami MIA,Pittsburgh PIT,"PIT 27, MIA 14",Mason Rudolph 251,James Conner 145,JuJu Smith-Schuster 103,401128074,2019,8,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,San Francisco SF,Arizona ARI,"SF 28, ARI 25",Jimmy Garoppolo 317,Kenyan Drake 110,Emmanuel Sanders 112,401127908,2019,9,False
+0,Houston HOU,Jacksonville JAX,"HOU 26, JAX 3",Gardner Minshew II 309,Carlos Hyde 160,Keelan Cole 80,401127936,2019,9,False
+1,Washington WSH,Buffalo BUF,"BUF 24, WSH 9",Josh Allen 160,Adrian Peterson 108,John Brown 76,401128076,2019,9,False
+2,Minnesota MIN,Kansas City KC,"KC 26, MIN 23",Matt Moore 275,Damien Williams 125,Tyreek Hill 140,401128079,2019,9,False
+3,New York NYJ,Miami MIA,"MIA 26, NYJ 18",Ryan Fitzpatrick 288,Le'Veon Bell 66,Mike Gesicki 95,401128080,2019,9,False
+4,Chicago CHI,Philadelphia PHI,"PHI 22, CHI 14",Carson Wentz 239,Jordan Howard 82,Zach Ertz 103,401128082,2019,9,False
+5,Indianapolis IND,Pittsburgh PIT,"PIT 26, IND 24",Mason Rudolph 191,Marlon Mack 89,Zach Pascal 76,401128083,2019,9,False
+6,Tennessee TEN,Carolina CAR,"CAR 30, TEN 20",Ryan Tannehill 331,Christian McCaffrey 146,DJ Moore 101,401128078,2019,9,False
+7,Detroit DET,Oakland OAK,"OAK 31, DET 24",Matthew Stafford 406,Josh Jacobs 120,Kenny Golladay 132,401128085,2019,9,False
+8,Tampa Bay TB,Seattle SEA,"SEA 40, TB 34 (OT)",Russell Wilson 378,Chris Carson 105,Mike Evans 180,401128087,2019,9,False
+9,Cleveland CLE,Denver DEN,"DEN 24, CLE 19",Baker Mayfield 273,Phillip Lindsay 92,Noah Fant 115,401128088,2019,9,False
+10,Green Bay GB,Los Angeles LAC,"LAC 26, GB 11",Philip Rivers 294,Melvin Gordon III 80,Mike Williams 111,401128090,2019,9,False
+11,New England NE,Baltimore BAL,"BAL 37, NE 20",Tom Brady 285,Mark Ingram II 115,Julian Edelman 89,401127899,2019,9,False
+0,Dallas DAL,New York NYG,"DAL 37, NYG 18",Dak Prescott 257,Ezekiel Elliott 139,Amari Cooper 80,401128091,2019,9,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Los Angeles LAC,Oakland OAK,"OAK 26, LAC 24",Derek Carr 218,Melvin Gordon III 108,Keenan Allen 68,401127907,2019,10,False
+0,Detroit DET,Chicago CHI,"CHI 20, DET 13",Jeff Driskel 269,David Montgomery 60,Allen Robinson II 86,401127911,2019,10,False
+1,Baltimore BAL,Cincinnati CIN,"BAL 49, CIN 13",Lamar Jackson 223,Joe Mixon 114,Marquise Brown 80,401127934,2019,10,False
+2,Buffalo BUF,Cleveland CLE,"CLE 19, BUF 16",Josh Allen 266,Nick Chubb 116,Jarvis Landry 97,401127939,2019,10,False
+3,Kansas City KC,Tennessee TEN,"TEN 35, KC 32",Patrick Mahomes 446,Derrick Henry 188,Tyreek Hill 157,401127981,2019,10,False
+4,Atlanta ATL,New Orleans NO,"ATL 26, NO 9",Drew Brees 287,Brian Hill 61,Michael Thomas 152,401127948,2019,10,False
+5,New York NYG,New York NYJ,"NYJ 34, NYG 27",Daniel Jones 308,Le'Veon Bell 34,Darius Slayton 121,401127952,2019,10,False
+6,Arizona ARI,Tampa Bay TB,"TB 30, ARI 27",Jameis Winston 358,Peyton Barber 43,Christian Kirk 138,401127976,2019,10,False
+7,Miami MIA,Indianapolis IND,"MIA 16, IND 12",Brian Hoyer 204,Marlon Mack 74,DeVante Parker 69,401127986,2019,10,False
+8,Carolina CAR,Green Bay GB,"GB 24, CAR 16",Kyle Allen 307,Christian McCaffrey 108,DJ Moore 120,401127944,2019,10,False
+9,Los Angeles LAR,Pittsburgh PIT,"PIT 17, LAR 12",Jared Goff 243,Todd Gurley II 73,Robert Woods 95,401127989,2019,10,False
+10,Minnesota MIN,Dallas DAL,"MIN 28, DAL 24",Dak Prescott 397,Dalvin Cook 97,Amari Cooper 147,401128041,2019,10,False
+0,Seattle SEA,San Francisco SF,"SEA 27, SF 24 (OT)",Jimmy Garoppolo 248,Chris Carson 89,Deebo Samuel 112,401127992,2019,10,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Pittsburgh PIT,Cleveland CLE,"CLE 21, PIT 7",Mason Rudolph 221,Nick Chubb 92,Odell Beckham Jr. 60,401128044,2019,11,False
+0,Dallas DAL,Detroit DET,"DAL 35, DET 27",Dak Prescott 444,Bo Scarbrough 55,Michael Gallup 148,401128052,2019,11,False
+1,Jacksonville JAX,Indianapolis IND,"IND 33, JAX 13",Nick Foles 296,Jonathan Williams 116,DJ Chark Jr. 104,401128075,2019,11,False
+2,Buffalo BUF,Miami MIA,"BUF 37, MIA 20",Ryan Fitzpatrick 323,Devin Singletary 75,John Brown 137,401128077,2019,11,False
+3,Denver DEN,Minnesota MIN,"MIN 27, DEN 23",Kirk Cousins 319,Phillip Lindsay 67,Stefon Diggs 121,401128081,2019,11,False
+4,New Orleans NO,Tampa Bay TB,"NO 34, TB 17",Jameis Winston 313,Alvin Kamara 75,Michael Thomas 114,401128084,2019,11,False
+5,New York NYJ,Washington WSH,"NYJ 34, WSH 17",Sam Darnold 293,Le'Veon Bell 59,Ryan Griffin 109,401128086,2019,11,False
+6,Atlanta ATL,Carolina CAR,"ATL 29, CAR 3",Kyle Allen 325,Christian McCaffrey 70,Calvin Ridley 143,401128049,2019,11,False
+7,Houston HOU,Baltimore BAL,"BAL 41, HOU 7",Lamar Jackson 222,Gus Edwards 112,DeAndre Hopkins 80,401128047,2019,11,False
+8,Arizona ARI,San Francisco SF,"SF 36, ARI 26",Jimmy Garoppolo 424,Kyler Murray 67,Deebo Samuel 134,401128089,2019,11,False
+9,Cincinnati CIN,Oakland OAK,"OAK 17, CIN 10",Derek Carr 292,Josh Jacobs 112,Tyrell Williams 82,401128092,2019,11,False
+10,New England NE,Philadelphia PHI,"NE 17, PHI 10",Tom Brady 216,Miles Sanders 38,Zach Ertz 94,401127897,2019,11,False
+11,Chicago CHI,Los Angeles LAR,"LAR 17, CHI 7",Mitchell Trubisky 190,Todd Gurley II 97,Taylor Gabriel 57,401128133,2019,11,False
+0,Kansas City KC,Los Angeles LAC,"KC 24, LAC 17",Philip Rivers 353,Melvin Gordon III 69,Austin Ekeler 108,401128134,2019,11,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Indianapolis IND,Houston HOU,"HOU 20, IND 17",Deshaun Watson 298,Jonathan Williams 104,William Fuller V 140,401127865,2019,12,False
+0,Tampa Bay TB,Atlanta ATL,"TB 35, ATL 22",Jameis Winston 313,Ronald Jones II 51,Chris Godwin 184,401127870,2019,12,False
+1,Denver DEN,Buffalo BUF,"BUF 20, DEN 3",Josh Allen 185,Devin Singletary 106,Cole Beasley 76,401127872,2019,12,False
+2,New York NYG,Chicago CHI,"CHI 19, NYG 14",Mitchell Trubisky 278,Saquon Barkley 59,Allen Robinson II 131,401127914,2019,12,False
+3,Pittsburgh PIT,Cincinnati CIN,"PIT 16, CIN 10",Ryan Finley 192,Benny Snell Jr. 98,Tyler Boyd 101,401127918,2019,12,False
+4,Miami MIA,Cleveland CLE,"CLE 41, MIA 24",Baker Mayfield 327,Nick Chubb 106,Jarvis Landry 148,401127919,2019,12,False
+5,Carolina CAR,New Orleans NO,"NO 34, CAR 31",Drew Brees 311,Latavius Murray 64,DJ Moore 126,401127922,2019,12,False
+6,Oakland OAK,New York NYJ,"NYJ 34, OAK 3",Sam Darnold 315,Le'Veon Bell 49,Robby Anderson 86,401127924,2019,12,False
+7,Seattle SEA,Philadelphia PHI,"SEA 17, PHI 9",Carson Wentz 256,Rashaad Penny 129,Zach Ertz 91,401128008,2019,12,False
+8,Detroit DET,Washington WSH,"WSH 19, DET 16",Jeff Driskel 207,Bo Scarbrough 98,Terry McLaurin 72,401127996,2019,12,False
+9,Jacksonville JAX,Tennessee TEN,"TEN 42, JAX 20",Nick Foles 272,Derrick Henry 159,A.J. Brown 135,401128000,2019,12,False
+10,Dallas DAL,New England NE,"NE 13, DAL 9",Dak Prescott 212,Ezekiel Elliott 86,Julian Edelman 93,401127957,2019,12,False
+11,Green Bay GB,San Francisco SF,"SF 37, GB 8",Jimmy Garoppolo 253,Raheem Mostert 45,George Kittle 129,401128004,2019,12,False
+0,Baltimore BAL,Los Angeles LAR,"BAL 45, LAR 6",Jared Goff 212,Mark Ingram II 111,Robert Woods 97,401128012,2019,12,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Chicago CHI,Detroit DET,"CHI 24, DET 20",Mitchell Trubisky 338,Bo Scarbrough 83,Kenny Golladay 158,401128015,2019,13,False
+1,Buffalo BUF,Dallas DAL,"BUF 26, DAL 15",Dak Prescott 355,Ezekiel Elliott 71,Cole Beasley 110,401128017,2019,13,False
+2,New Orleans NO,Atlanta ATL,"NO 26, ATL 18",Matt Ryan 312,Alvin Kamara 61,Calvin Ridley 91,401128022,2019,13,False
+0,New York NYJ,Cincinnati CIN,"CIN 22, NYJ 6",Andy Dalton 243,Joe Mixon 44,Robby Anderson 101,401128057,2019,13,False
+1,Tennessee TEN,Indianapolis IND,"TEN 31, IND 17",Jacoby Brissett 319,Derrick Henry 149,Zach Pascal 109,401128058,2019,13,False
+2,Philadelphia PHI,Miami MIA,"MIA 37, PHI 31",Ryan Fitzpatrick 365,Miles Sanders 83,DeVante Parker 159,401128070,2019,13,False
+3,Green Bay GB,New York NYG,"GB 31, NYG 13",Aaron Rodgers 243,Saquon Barkley 83,Allen Lazard 103,401128095,2019,13,False
+4,Cleveland CLE,Pittsburgh PIT,"PIT 20, CLE 13",Devlin Hodges 212,Benny Snell Jr. 63,James Washington 111,401128107,2019,13,False
+5,Washington WSH,Carolina CAR,"WSH 29, CAR 21",Kyle Allen 278,Derrius Guice 129,DJ Moore 75,401128032,2019,13,False
+6,Tampa Bay TB,Jacksonville JAX,"TB 28, JAX 11",Jameis Winston 268,Peyton Barber 44,Breshad Perriman 87,401128063,2019,13,False
+7,San Francisco SF,Baltimore BAL,"BAL 20, SF 17",Jimmy Garoppolo 165,Raheem Mostert 146,Mark Andrews 50,401128027,2019,13,False
+8,Los Angeles LAR,Arizona ARI,"LAR 34, ARI 7",Jared Goff 424,Todd Gurley II 95,Robert Woods 172,401128100,2019,13,False
+9,Los Angeles LAC,Denver DEN,"DEN 23, LAC 20",Philip Rivers 265,Melvin Gordon III 99,Mike Williams 117,401128104,2019,13,False
+10,Oakland OAK,Kansas City KC,"KC 40, OAK 9",Derek Carr 222,Josh Jacobs 104,Darren Waller 100,401128067,2019,13,False
+11,New England NE,Houston HOU,"HOU 28, NE 22",Tom Brady 326,James White 79,Julian Edelman 106,401127967,2019,13,False
+0,Minnesota MIN,Seattle SEA,"SEA 37, MIN 30",Kirk Cousins 276,Chris Carson 102,DK Metcalf 75,401128112,2019,13,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Dallas DAL,Chicago CHI,"CHI 31, DAL 24",Dak Prescott 334,David Montgomery 86,Michael Gallup 109,401127871,2019,14,False
+0,Carolina CAR,Atlanta ATL,"ATL 40, CAR 20",Matt Ryan 313,Devonta Freeman 84,Olamide Zaccheaus 93,401127869,2019,14,False
+1,Baltimore BAL,Buffalo BUF,"BAL 24, BUF 17",Josh Allen 146,Devin Singletary 89,Hayden Hurst 73,401127868,2019,14,False
+2,Cincinnati CIN,Cleveland CLE,"CLE 27, CIN 19",Andy Dalton 262,Joe Mixon 146,Jarvis Landry 76,401127867,2019,14,False
+3,Washington WSH,Green Bay GB,"GB 20, WSH 15",Aaron Rodgers 195,Aaron Jones 134,Aaron Jones 58,401127916,2019,14,False
+4,Detroit DET,Minnesota MIN,"MIN 20, DET 7",Kirk Cousins 242,Bo Scarbrough 65,Stefon Diggs 92,401127926,2019,14,False
+5,San Francisco SF,New Orleans NO,"SF 48, NO 46",Drew Brees 349,Raheem Mostert 69,Emmanuel Sanders 157,401127964,2019,14,False
+6,Miami MIA,New York NYJ,"NYJ 22, MIA 21",Sam Darnold 270,Bilal Powell 74,Robby Anderson 117,401127969,2019,14,False
+7,Indianapolis IND,Tampa Bay TB,"TB 38, IND 35",Jameis Winston 456,Marlon Mack 38,Marcus Johnson 105,401127994,2019,14,False
+8,Denver DEN,Houston HOU,"DEN 38, HOU 24",Drew Lock 309,Carlos Hyde 73,DeAndre Hopkins 120,401127920,2019,14,False
+9,Los Angeles LAC,Jacksonville JAX,"LAC 45, JAX 10",Philip Rivers 314,Austin Ekeler 101,Austin Ekeler 112,401127997,2019,14,False
+10,Tennessee TEN,Oakland OAK,"TEN 42, OAK 21",Ryan Tannehill 391,Derrick Henry 103,A.J. Brown 153,401128005,2019,14,False
+11,Kansas City KC,New England NE,"KC 23, NE 16",Patrick Mahomes 283,LeSean McCoy 39,Julian Edelman 95,401127930,2019,14,False
+12,Pittsburgh PIT,Arizona ARI,"PIT 23, ARI 17",Kyler Murray 194,Kerrith Whyte 41,Christian Kirk 85,401128002,2019,14,False
+13,Seattle SEA,Los Angeles LAR,"LAR 28, SEA 12",Jared Goff 293,Todd Gurley II 79,Tyler Higbee 116,401128009,2019,14,False
+0,New York NYG,Philadelphia PHI,"PHI 23, NYG 17 (OT)",Carson Wentz 325,Saquon Barkley 66,Darius Slayton 154,401128013,2019,14,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,New York NYJ,Baltimore BAL,"BAL 42, NYJ 21",Sam Darnold 218,Le'Veon Bell 87,Jamison Crowder 90,401128020,2019,15,False
+0,New England NE,Cincinnati CIN,"NE 34, CIN 13",Andy Dalton 151,Joe Mixon 136,James White 49,401127955,2019,15,False
+1,Tampa Bay TB,Detroit DET,"TB 38, DET 17",Jameis Winston 458,Ronald Jones II 23,Chris Godwin 121,401128028,2019,15,False
+2,Chicago CHI,Green Bay GB,"GB 21, CHI 13",Mitchell Trubisky 334,Aaron Jones 51,Allen Robinson II 125,401128031,2019,15,False
+3,Houston HOU,Tennessee TEN,"HOU 24, TEN 21",Ryan Tannehill 279,Carlos Hyde 104,DeAndre Hopkins 119,401128068,2019,15,False
+4,Denver DEN,Kansas City KC,"KC 23, DEN 3",Patrick Mahomes 340,Darwin Thompson 38,Travis Kelce 142,401128056,2019,15,False
+5,Miami MIA,New York NYG,"NYG 36, MIA 20",Eli Manning 283,Saquon Barkley 112,Sterling Shepard 111,401128060,2019,15,False
+6,Philadelphia PHI,Washington WSH,"PHI 37, WSH 27",Carson Wentz 266,Miles Sanders 122,Terry McLaurin 130,401128071,2019,15,False
+7,Seattle SEA,Carolina CAR,"SEA 30, CAR 24",Russell Wilson 286,Chris Carson 133,Tyler Lockett 120,401128024,2019,15,False
+8,Jacksonville JAX,Oakland OAK,"JAX 20, OAK 16",Derek Carr 267,Josh Jacobs 89,Darren Waller 122,401128099,2019,15,False
+9,Cleveland CLE,Arizona ARI,"ARI 38, CLE 24",Baker Mayfield 247,Kenyan Drake 137,Damiere Byrd 86,401128094,2019,15,False
+10,Minnesota MIN,Los Angeles LAC,"MIN 39, LAC 10",Philip Rivers 307,Mike Boone 56,Keenan Allen 99,401128113,2019,15,False
+11,Los Angeles LAR,Dallas DAL,"DAL 44, LAR 21",Jared Goff 284,Tony Pollard 131,Tyler Higbee 111,401128103,2019,15,False
+12,Atlanta ATL,San Francisco SF,"ATL 29, SF 22",Matt Ryan 210,Raheem Mostert 54,Julio Jones 134,401128108,2019,15,False
+13,Buffalo BUF,Pittsburgh PIT,"BUF 17, PIT 10",Devlin Hodges 202,Devin Singletary 87,John Brown 99,401128065,2019,15,False
+0,Indianapolis IND,New Orleans NO,"NO 34, IND 7",Drew Brees 307,Alvin Kamara 66,Michael Thomas 128,401128117,2019,15,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Houston HOU,Tampa Bay TB,"HOU 23, TB 20",Jameis Winston 335,Ronald Jones II 77,Breshad Perriman 102,401127901,2019,16,False
+1,Buffalo BUF,New England NE,"NE 24, BUF 17",Tom Brady 271,Sony Michel 96,Cole Beasley 108,401127898,2019,16,False
+2,Los Angeles LAR,San Francisco SF,"SF 34, LAR 31",Jared Goff 323,Raheem Mostert 53,Robert Woods 117,401127900,2019,16,False
+0,Jacksonville JAX,Atlanta ATL,"ATL 24, JAX 12",Matt Ryan 384,Leonard Fournette 71,Julio Jones 166,401127903,2019,16,False
+1,Baltimore BAL,Cleveland CLE,"BAL 31, CLE 15",Lamar Jackson 238,Lamar Jackson 103,Mark Andrews 93,401127904,2019,16,False
+2,New Orleans NO,Tennessee TEN,"NO 38, TEN 28",Drew Brees 279,Alvin Kamara 80,Michael Thomas 136,401127935,2019,16,False
+3,Carolina CAR,Indianapolis IND,"IND 38, CAR 6",Will Grier 224,Marlon Mack 95,Christian McCaffrey 119,401127906,2019,16,False
+4,Cincinnati CIN,Miami MIA,"MIA 38, CIN 35 (OT)",Ryan Fitzpatrick 419,Myles Gaskin 55,Tyler Boyd 128,401127910,2019,16,False
+5,Pittsburgh PIT,New York NYJ,"NYJ 16, PIT 10",Sam Darnold 183,Le'Veon Bell 72,Diontae Johnson 81,401127933,2019,16,False
+6,New York NYG,Washington WSH,"NYG 41, WSH 35 (OT)",Daniel Jones 352,Saquon Barkley 189,Golden Tate 96,401127937,2019,16,False
+7,Detroit DET,Denver DEN,"DEN 27, DET 17",Drew Lock 192,Phillip Lindsay 109,Kenny Golladay 66,401127893,2019,16,False
+8,Oakland OAK,Los Angeles LAC,"OAK 24, LAC 17",Derek Carr 291,DeAndre Washington 85,Hunter Renfrow 107,401127896,2019,16,False
+9,Dallas DAL,Philadelphia PHI,"PHI 17, DAL 9",Carson Wentz 319,Miles Sanders 79,Michael Gallup 98,401127938,2019,16,False
+10,Arizona ARI,Seattle SEA,"ARI 27, SEA 13",Russell Wilson 169,Kenyan Drake 166,Jacob Hollister 64,401127941,2019,16,False
+11,Kansas City KC,Chicago CHI,"KC 26, CHI 3",Patrick Mahomes 251,Damien Williams 65,Travis Kelce 74,401127943,2019,16,False
+0,Green Bay GB,Minnesota MIN,"GB 23, MIN 10",Aaron Rodgers 216,Aaron Jones 154,Davante Adams 116,401127946,2019,16,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,New York NYJ,Buffalo BUF,"NYJ 13, BUF 6",Matt Barkley 232,Le'Veon Bell 41,Duke Williams 108,401127973,2019,17,False
+1,Cleveland CLE,Cincinnati CIN,"CIN 33, CLE 23",Baker Mayfield 279,Joe Mixon 162,Jarvis Landry 82,401127978,2019,17,False
+2,Green Bay GB,Detroit DET,"GB 23, DET 20",Aaron Rodgers 323,Aaron Jones 100,Davante Adams 93,401127983,2019,17,False
+3,Los Angeles LAC,Kansas City KC,"KC 31, LAC 21",Philip Rivers 281,Damien Williams 124,Keenan Allen 82,401127990,2019,17,False
+4,Chicago CHI,Minnesota MIN,"CHI 21, MIN 19",Mitchell Trubisky 207,Mike Boone 148,Allen Robinson II 71,401127991,2019,17,False
+5,Miami MIA,New England NE,"MIA 27, NE 24",Ryan Fitzpatrick 320,Sony Michel 74,DeVante Parker 137,401127909,2019,17,False
+6,Atlanta ATL,Tampa Bay TB,"ATL 28, TB 22 (OT)",Matt Ryan 313,Ronald Jones II 106,Breshad Perriman 134,401128034,2019,17,False
+7,New Orleans NO,Carolina CAR,"NO 42, CAR 10",Kyle Allen 295,Latavius Murray 61,Brandon Zylstra 96,401127975,2019,17,False
+8,Washington WSH,Dallas DAL,"DAL 47, WSH 16",Dak Prescott 303,Ezekiel Elliott 122,Michael Gallup 98,401127980,2019,17,False
+9,Oakland OAK,Denver DEN,"DEN 16, OAK 15",Derek Carr 391,DeAndre Washington 77,Darren Waller 107,401128036,2019,17,False
+10,Arizona ARI,Los Angeles LAR,"LAR 31, ARI 24",Kyler Murray 325,Todd Gurley II 68,Cooper Kupp 99,401128038,2019,17,False
+11,Philadelphia PHI,New York NYG,"PHI 34, NYG 17",Daniel Jones 301,Saquon Barkley 92,Kaden Smith 98,401128033,2019,17,False
+12,Indianapolis IND,Jacksonville JAX,"JAX 38, IND 20",Gardner Minshew II 295,Marlon Mack 77,Dede Westbrook 72,401127988,2019,17,False
+13,Pittsburgh PIT,Baltimore BAL,"BAL 28, PIT 10",Robert Griffin III 96,Gus Edwards 130,Diontae Johnson 54,401127950,2019,17,False
+14,Tennessee TEN,Houston HOU,"TEN 35, HOU 14",A.J. McCarron 225,Derrick Henry 211,A.J. Brown 124,401127984,2019,17,False
+15,San Francisco SF,Seattle SEA,"SF 26, SEA 21",Jimmy Garoppolo 285,Travis Homer 62,Deebo Samuel 102,401128040,2019,17,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Houston HOU,Kansas City KC,"KC 34, HOU 20",Deshaun Watson 253,Clyde Edwards-Helaire 138,William Fuller V 112,401220225,2020,1,False
+0,Seattle SEA,Atlanta ATL,"SEA 38, ATL 25",Matt Ryan 450,Todd Gurley II 56,Julio Jones 157,401220313,2020,1,False
+1,New York NYJ,Buffalo BUF,"BUF 27, NYJ 17",Josh Allen 312,Josh Allen 57,Jamison Crowder 115,401220116,2020,1,False
+2,Chicago CHI,Detroit DET,"CHI 27, DET 23",Matthew Stafford 297,Adrian Peterson 93,Danny Amendola 81,401220282,2020,1,False
+3,Green Bay GB,Minnesota MIN,"GB 43, MIN 34",Aaron Rodgers 364,Aaron Jones 66,Davante Adams 156,401220300,2020,1,False
+4,Miami MIA,New England NE,"NE 21, MIA 11",Ryan Fitzpatrick 191,Cam Newton 75,Julian Edelman 57,401220131,2020,1,False
+5,Philadelphia PHI,Washington WSH,"WSH 27, PHI 17",Carson Wentz 270,Antonio Gibson 36,Dallas Goedert 101,401220268,2020,1,False
+6,Las Vegas LV,Carolina CAR,"LV 34, CAR 30",Teddy Bridgewater 269,Christian McCaffrey 97,Robby Anderson 114,401220370,2020,1,False
+7,Indianapolis IND,Jacksonville JAX,"JAX 27, IND 20",Philip Rivers 363,James Robinson 62,Parris Campbell 71,401220195,2020,1,False
+8,Cleveland CLE,Baltimore BAL,"BAL 38, CLE 6",Lamar Jackson 275,Kareem Hunt 72,Marquise Brown 101,401220147,2020,1,False
+9,Los Angeles LAC,Cincinnati CIN,"LAC 16, CIN 13",Tyrod Taylor 208,Austin Ekeler 84,Hunter Henry 73,401220161,2020,1,False
+10,Tampa Bay TB,New Orleans NO,"NO 34, TB 23",Tom Brady 239,Ronald Jones II 66,Jared Cook 80,401220369,2020,1,False
+11,Arizona ARI,San Francisco SF,"ARI 24, SF 20",Jimmy Garoppolo 259,Kyler Murray 91,DeAndre Hopkins 151,401220352,2020,1,False
+12,Dallas DAL,Los Angeles LAR,"LAR 20, DAL 17",Jared Goff 275,Ezekiel Elliott 96,Robert Woods 105,401220347,2020,1,False
+0,Pittsburgh PIT,New York NYG,"PIT 26, NYG 16",Daniel Jones 279,Benny Snell Jr. 113,Darius Slayton 102,401220256,2020,1,False
+1,Tennessee TEN,Denver DEN,"TEN 16, DEN 14",Ryan Tannehill 249,Derrick Henry 116,Corey Davis 101,401220217,2020,1,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Cincinnati CIN,Cleveland CLE,"CLE 35, CIN 30",Joe Burrow 316,Nick Chubb 124,Odell Beckham Jr. 74,401220163,2020,2,False
+0,New York NYG,Chicago CHI,"CHI 17, NYG 13",Daniel Jones 241,David Montgomery 82,Evan Engram 65,401220281,2020,2,False
+1,Atlanta ATL,Dallas DAL,"DAL 40, ATL 39",Dak Prescott 450,Ezekiel Elliott 89,Calvin Ridley 109,401220249,2020,2,False
+2,Detroit DET,Green Bay GB,"GB 42, DET 21",Matthew Stafford 244,Aaron Jones 168,Aaron Jones 68,401220291,2020,2,False
+3,Jacksonville JAX,Tennessee TEN,"TEN 33, JAX 30",Gardner Minshew II 339,James Robinson 102,Jonnu Smith 84,401220204,2020,2,False
+4,Minnesota MIN,Indianapolis IND,"IND 28, MIN 11",Philip Rivers 214,Jonathan Taylor 101,Mo Alie-Cox 111,401220192,2020,2,False
+5,Buffalo BUF,Miami MIA,"BUF 31, MIA 28",Josh Allen 415,Devin Singletary 56,Stefon Diggs 153,401220122,2020,2,False
+6,San Francisco SF,New York NYJ,"SF 31, NYJ 13",Sam Darnold 179,Raheem Mostert 92,Chris Hogan 75,401220144,2020,2,False
+7,Los Angeles LAR,Philadelphia PHI,"LAR 37, PHI 19",Jared Goff 267,Miles Sanders 95,Cooper Kupp 81,401220261,2020,2,False
+8,Denver DEN,Pittsburgh PIT,"PIT 26, DEN 21",Ben Roethlisberger 311,James Conner 106,Diontae Johnson 92,401220177,2020,2,False
+9,Carolina CAR,Tampa Bay TB,"TB 31, CAR 17",Teddy Bridgewater 367,Leonard Fournette 103,DJ Moore 120,401220329,2020,2,False
+10,Washington WSH,Arizona ARI,"ARI 30, WSH 15",Kyler Murray 286,Kenyan Drake 86,Terry McLaurin 125,401220340,2020,2,False
+11,Kansas City KC,Los Angeles LAC,"KC 23, LAC 20 (OT)",Justin Herbert 311,Austin Ekeler 93,Tyreek Hill 99,401220235,2020,2,False
+12,Baltimore BAL,Houston HOU,"BAL 33, HOU 16",Deshaun Watson 275,Gus Edwards 73,Brandin Cooks 95,401220181,2020,2,False
+13,New England NE,Seattle SEA,"SEA 35, NE 30",Cam Newton 397,Chris Carson 72,Julian Edelman 179,401220365,2020,2,False
+0,New Orleans NO,Las Vegas LV,"LV 34, NO 24",Drew Brees 312,Josh Jacobs 88,Darren Waller 105,401220231,2020,2,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Miami MIA,Jacksonville JAX,"MIA 31, JAX 13",Gardner Minshew II 275,Myles Gaskin 66,James Robinson 83,401220201,2020,3,False
+0,Chicago CHI,Atlanta ATL,"CHI 30, ATL 26",Matt Ryan 238,Todd Gurley II 80,Allen Robinson II 123,401220309,2020,3,False
+1,Los Angeles LAR,Buffalo BUF,"BUF 35, LAR 32",Jared Goff 321,Darrell Henderson Jr. 114,Cooper Kupp 107,401220119,2020,3,False
+2,Washington WSH,Cleveland CLE,"CLE 34, WSH 20",Dwayne Haskins Jr. 224,Nick Chubb 108,Terry McLaurin 83,401220168,2020,3,False
+3,Tennessee TEN,Minnesota MIN,"TEN 31, MIN 30",Ryan Tannehill 321,Dalvin Cook 181,Justin Jefferson 175,401220304,2020,3,False
+4,Las Vegas LV,New England NE,"NE 36, LV 20",Derek Carr 261,Sony Michel 117,Hunter Renfrow 84,401220134,2020,3,False
+5,San Francisco SF,New York NYG,"SF 36, NYG 9",Nick Mullens 343,Daniel Jones 49,Brandon Aiyuk 70,401220254,2020,3,False
+6,Cincinnati CIN,Philadelphia PHI,"CIN 23, PHI 23 (OT)",Joe Burrow 312,Miles Sanders 95,Tyler Boyd 125,401220264,2020,3,False
+7,Houston HOU,Pittsburgh PIT,"PIT 28, HOU 21",Deshaun Watson 264,James Conner 109,Randall Cobb 95,401220173,2020,3,False
+8,New York NYJ,Indianapolis IND,"IND 36, NYJ 7",Philip Rivers 217,Jonathan Taylor 59,Braxton Berrios 64,401220193,2020,3,False
+9,Carolina CAR,Los Angeles LAC,"CAR 21, LAC 16",Justin Herbert 330,Austin Ekeler 59,Keenan Allen 132,401220240,2020,3,False
+10,Tampa Bay TB,Denver DEN,"TB 28, DEN 10",Tom Brady 297,Ronald Jones II 53,Scotty Miller 83,401220216,2020,3,False
+11,Detroit DET,Arizona ARI,"DET 26, ARI 23",Kyler Murray 270,Adrian Peterson 75,DeAndre Hopkins 137,401220343,2020,3,False
+12,Dallas DAL,Seattle SEA,"SEA 38, DAL 31",Dak Prescott 472,Chris Carson 64,Michael Gallup 138,401220363,2020,3,False
+13,Green Bay GB,New Orleans NO,"GB 37, NO 30",Drew Brees 288,Aaron Jones 69,Allen Lazard 146,401220323,2020,3,False
+0,Kansas City KC,Baltimore BAL,"KC 34, BAL 20",Patrick Mahomes 385,Lamar Jackson 83,Travis Kelce 87,401220153,2020,3,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Denver DEN,New York NYJ,"DEN 37, NYJ 28",Brett Rypien 242,Melvin Gordon III 107,Tim Patrick 113,401220141,2020,4,False
+0,Jacksonville JAX,Cincinnati CIN,"CIN 33, JAX 25",Gardner Minshew II 351,Joe Mixon 151,DJ Chark Jr. 95,401220157,2020,4,False
+1,Cleveland CLE,Dallas DAL,"CLE 49, DAL 38",Dak Prescott 502,D'Ernest Johnson 95,Amari Cooper 134,401220247,2020,4,False
+2,New Orleans NO,Detroit DET,"NO 35, DET 29",Drew Brees 246,Alvin Kamara 83,Emmanuel Sanders 93,401220285,2020,4,False
+3,Seattle SEA,Miami MIA,"SEA 31, MIA 23",Russell Wilson 360,Chris Carson 80,DeVante Parker 110,401220128,2020,4,False
+4,Los Angeles LAC,Tampa Bay TB,"TB 38, LAC 31",Tom Brady 369,Ronald Jones II 111,Mike Evans 122,401220334,2020,4,False
+5,Baltimore BAL,Washington WSH,"BAL 31, WSH 17",Dwayne Haskins Jr. 314,Lamar Jackson 53,Terry McLaurin 118,401220271,2020,4,False
+6,Arizona ARI,Carolina CAR,"CAR 31, ARI 21",Teddy Bridgewater 276,Mike Davis 84,Robby Anderson 99,401220320,2020,4,False
+7,Minnesota MIN,Houston HOU,"MIN 31, HOU 23",Deshaun Watson 300,Dalvin Cook 130,Adam Thielen 114,401220184,2020,4,False
+8,New York NYG,Los Angeles LAR,"LAR 17, NYG 9",Jared Goff 200,Wayne Gallman 45,Cooper Kupp 69,401220348,2020,4,False
+9,Indianapolis IND,Chicago CHI,"IND 19, CHI 11",Nick Foles 249,Jonathan Taylor 68,Allen Robinson II 101,401220280,2020,4,False
+10,Buffalo BUF,Las Vegas LV,"BUF 30, LV 23",Derek Carr 311,Devin Singletary 56,Stefon Diggs 115,401220229,2020,4,False
+11,Philadelphia PHI,San Francisco SF,"PHI 25, SF 20",Nick Mullens 200,Jerick McKinnon 54,George Kittle 183,401220355,2020,4,False
+0,New England NE,Kansas City KC,"KC 26, NE 10",Patrick Mahomes 236,Damien Harris 100,Damiere Byrd 80,401220221,2020,4,False
+1,Atlanta ATL,Green Bay GB,"GB 30, ATL 16",Aaron Rodgers 327,Aaron Jones 71,Robert Tonyan 98,401220293,2020,4,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Tampa Bay TB,Chicago CHI,"CHI 20, TB 19",Tom Brady 253,Ronald Jones II 106,Allen Robinson II 90,401220278,2020,5,False
+0,Carolina CAR,Atlanta ATL,"CAR 23, ATL 16",Teddy Bridgewater 313,Todd Gurley II 121,Calvin Ridley 136,401220306,2020,5,False
+1,Las Vegas LV,Kansas City KC,"LV 40, KC 32",Derek Carr 347,Josh Jacobs 77,Henry Ruggs III 118,401220219,2020,5,False
+2,Arizona ARI,New York NYJ,"ARI 30, NYJ 10",Kyler Murray 380,Kenyan Drake 60,DeAndre Hopkins 131,401220143,2020,5,False
+3,Philadelphia PHI,Pittsburgh PIT,"PIT 38, PHI 29",Carson Wentz 258,Miles Sanders 80,Travis Fulgham 152,401220175,2020,5,False
+4,Los Angeles LAR,Washington WSH,"LAR 30, WSH 10",Jared Goff 309,Cam Akers 61,Gerald Everett 90,401220269,2020,5,False
+5,Cincinnati CIN,Baltimore BAL,"BAL 27, CIN 3",Joe Burrow 183,Joe Mixon 59,Marquise Brown 77,401220146,2020,5,False
+6,Jacksonville JAX,Houston HOU,"HOU 30, JAX 14",Deshaun Watson 359,David Johnson 96,Brandin Cooks 161,401220179,2020,5,False
+7,Miami MIA,San Francisco SF,"MIA 43, SF 17",Ryan Fitzpatrick 350,Raheem Mostert 90,Preston Williams 106,401220358,2020,5,False
+8,Indianapolis IND,Cleveland CLE,"CLE 32, IND 23",Baker Mayfield 247,Kareem Hunt 72,Jarvis Landry 88,401220166,2020,5,False
+9,New York NYG,Dallas DAL,"DAL 37, NYG 34",Daniel Jones 222,Ezekiel Elliott 91,Darius Slayton 129,401220242,2020,5,False
+10,Minnesota MIN,Seattle SEA,"SEA 27, MIN 26",Kirk Cousins 249,Alexander Mattison 112,DK Metcalf 93,401220367,2020,5,False
+0,Los Angeles LAC,New Orleans NO,"NO 30, LAC 27 (OT)",Drew Brees 325,Justin Jackson 71,Emmanuel Sanders 122,401220326,2020,5,False
+0,Buffalo BUF,Tennessee TEN,"TEN 42, BUF 16",Josh Allen 263,Derrick Henry 57,Stefon Diggs 106,401220209,2020,5,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Houston HOU,Tennessee TEN,"TEN 42, HOU 36 (OT)",Ryan Tannehill 366,Derrick Henry 212,William Fuller V 123,401220202,2020,6,False
+1,Cincinnati CIN,Indianapolis IND,"IND 31, CIN 27",Philip Rivers 371,Jonathan Taylor 60,Tee Higgins 125,401220190,2020,6,False
+2,Atlanta ATL,Minnesota MIN,"ATL 40, MIN 23",Matt Ryan 371,Todd Gurley II 47,Justin Jefferson 166,401220301,2020,6,False
+3,Denver DEN,New England NE,"DEN 18, NE 12",Drew Lock 189,Phillip Lindsay 101,Tim Patrick 101,401220133,2020,6,False
+4,Washington WSH,New York NYG,"NYG 20, WSH 19",Kyle Allen 280,Daniel Jones 74,Terry McLaurin 74,401220252,2020,6,False
+5,Baltimore BAL,Philadelphia PHI,"BAL 30, PHI 28",Carson Wentz 213,Miles Sanders 118,Travis Fulgham 75,401220263,2020,6,False
+6,Cleveland CLE,Pittsburgh PIT,"PIT 38, CLE 7",Ben Roethlisberger 162,James Conner 101,Chase Claypool 74,401220172,2020,6,False
+7,Chicago CHI,Carolina CAR,"CHI 23, CAR 16",Teddy Bridgewater 216,David Montgomery 58,DJ Moore 93,401220317,2020,6,False
+8,Detroit DET,Jacksonville JAX,"DET 34, JAX 16",Gardner Minshew II 243,D'Andre Swift 116,Keelan Cole 143,401220200,2020,6,False
+9,New York NYJ,Miami MIA,"MIA 24, NYJ 0",Ryan Fitzpatrick 191,Myles Gaskin 91,Breshad Perriman 62,401220124,2020,6,False
+10,Green Bay GB,Tampa Bay TB,"TB 38, GB 10",Tom Brady 166,Ronald Jones II 113,Rob Gronkowski 78,401220331,2020,6,False
+11,Los Angeles LAR,San Francisco SF,"SF 24, LAR 16",Jimmy Garoppolo 268,Darrell Henderson Jr. 88,George Kittle 109,401220353,2020,6,False
+0,Kansas City KC,Buffalo BUF,"KC 26, BUF 17",Patrick Mahomes 225,Clyde Edwards-Helaire 161,Demarcus Robinson 69,401220117,2020,6,False
+1,Arizona ARI,Dallas DAL,"ARI 38, DAL 10",Andy Dalton 266,Kenyan Drake 164,Christian Kirk 86,401220245,2020,6,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,New York NYG,Philadelphia PHI,"PHI 22, NYG 21",Carson Wentz 359,Daniel Jones 92,Richard Rodgers 85,401220259,2020,7,False
+0,Detroit DET,Atlanta ATL,"DET 23, ATL 22",Matthew Stafford 340,Todd Gurley II 63,Kenny Golladay 114,401220310,2020,7,False
+1,Cleveland CLE,Cincinnati CIN,"CLE 37, CIN 34",Joe Burrow 406,Kareem Hunt 76,Rashard Higgins 110,401220155,2020,7,False
+2,Pittsburgh PIT,Tennessee TEN,"PIT 27, TEN 24",Ben Roethlisberger 268,James Conner 82,A.J. Brown 153,401249063,2020,7,False
+3,Carolina CAR,New Orleans NO,"NO 27, CAR 24",Drew Brees 287,Alvin Kamara 83,DJ Moore 93,401220322,2020,7,False
+4,Buffalo BUF,New York NYJ,"BUF 18, NYJ 10",Josh Allen 307,Josh Allen 61,Cole Beasley 112,401220138,2020,7,False
+5,Dallas DAL,Washington WSH,"WSH 25, DAL 3",Kyle Allen 194,Antonio Gibson 128,Terry McLaurin 90,401220266,2020,7,False
+6,Green Bay GB,Houston HOU,"GB 35, HOU 20",Deshaun Watson 309,Jamaal Williams 77,Davante Adams 196,401220183,2020,7,False
+7,Tampa Bay TB,Las Vegas LV,"TB 45, LV 20",Tom Brady 369,Leonard Fournette 50,Scotty Miller 109,401220232,2020,7,False
+8,Kansas City KC,Denver DEN,"KC 43, DEN 16",Drew Lock 254,Phillip Lindsay 79,Albert Okwuegbunam 60,401220210,2020,7,False
+9,San Francisco SF,New England NE,"SF 33, NE 6",Jimmy Garoppolo 277,Jeff Wilson Jr. 112,Brandon Aiyuk 115,401220136,2020,7,False
+10,Jacksonville JAX,Los Angeles LAC,"LAC 39, JAX 29",Justin Herbert 347,James Robinson 119,Keenan Allen 125,401220241,2020,7,False
+11,Seattle SEA,Arizona ARI,"ARI 37, SEA 34 (OT)",Russell Wilson 388,Russell Wilson 84,Tyler Lockett 200,401220338,2020,7,False
+0,Chicago CHI,Los Angeles LAR,"LAR 24, CHI 10",Nick Foles 261,Darrell Henderson Jr. 63,Allen Robinson II 70,401220351,2020,7,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Atlanta ATL,Carolina CAR,"ATL 25, CAR 17",Matt Ryan 281,Mike Davis 66,Julio Jones 137,401220314,2020,8,False
+0,New England NE,Buffalo BUF,"BUF 24, NE 21",Cam Newton 174,Damien Harris 102,Stefon Diggs 92,401220115,2020,8,False
+1,Tennessee TEN,Cincinnati CIN,"CIN 31, TEN 20",Joe Burrow 249,Derrick Henry 112,Corey Davis 128,401220158,2020,8,False
+2,Las Vegas LV,Cleveland CLE,"LV 16, CLE 6",Baker Mayfield 122,Josh Jacobs 129,Jarvis Landry 52,401220169,2020,8,False
+3,Indianapolis IND,Detroit DET,"IND 41, DET 21",Matthew Stafford 336,Jordan Wilkins 89,Marvin Hall 113,401220288,2020,8,False
+4,Minnesota MIN,Green Bay GB,"MIN 28, GB 22",Aaron Rodgers 291,Dalvin Cook 163,Robert Tonyan 79,401220292,2020,8,False
+5,New York NYJ,Kansas City KC,"KC 35, NYJ 9",Patrick Mahomes 416,Frank Gore 30,Travis Kelce 109,401220222,2020,8,False
+6,Los Angeles LAR,Miami MIA,"MIA 28, LAR 17",Jared Goff 355,Myles Gaskin 47,Cooper Kupp 110,401220127,2020,8,False
+7,Pittsburgh PIT,Baltimore BAL,"PIT 28, BAL 24",Lamar Jackson 208,J.K. Dobbins 113,Willie Snead IV 106,401220148,2020,8,False
+8,Los Angeles LAC,Denver DEN,"DEN 31, LAC 30",Justin Herbert 278,Justin Jackson 89,Mike Williams 99,401220212,2020,8,False
+9,New Orleans NO,Chicago CHI,"NO 26, CHI 23 (OT)",Drew Brees 280,David Montgomery 89,Alvin Kamara 96,401220277,2020,8,False
+10,San Francisco SF,Seattle SEA,"SEA 37, SF 27",Russell Wilson 261,DeeJay Dallas 41,DK Metcalf 161,401220361,2020,8,False
+11,Dallas DAL,Philadelphia PHI,"PHI 23, DAL 9",Ben DiNucci 180,Boston Scott 70,Travis Fulgham 78,401220258,2020,8,False
+0,Tampa Bay TB,New York NYG,"TB 25, NYG 23",Tom Brady 279,Leonard Fournette 52,Sterling Shepard 74,401220257,2020,8,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Green Bay GB,San Francisco SF,"GB 34, SF 17",Aaron Rodgers 305,Aaron Jones 58,Richie James 184,401220359,2020,9,False
+0,Denver DEN,Atlanta ATL,"ATL 34, DEN 27",Drew Lock 313,Todd Gurley II 53,Jerry Jeudy 125,401220311,2020,9,False
+1,Seattle SEA,Buffalo BUF,"BUF 44, SEA 34",Josh Allen 415,DeeJay Dallas 31,Stefon Diggs 118,401220120,2020,9,False
+2,Chicago CHI,Tennessee TEN,"TEN 24, CHI 17",Nick Foles 335,Derrick Henry 68,A.J. Brown 101,401220207,2020,9,False
+3,Baltimore BAL,Indianapolis IND,"BAL 24, IND 10",Philip Rivers 227,Lamar Jackson 58,Michael Pittman Jr. 56,401220189,2020,9,False
+4,Carolina CAR,Kansas City KC,"KC 33, CAR 31",Patrick Mahomes 372,Christian McCaffrey 69,Travis Kelce 159,401220224,2020,9,False
+5,Detroit DET,Minnesota MIN,"MIN 34, DET 20",Kirk Cousins 220,Dalvin Cook 206,Danny Amendola 77,401220299,2020,9,False
+6,New York NYG,Washington WSH,"NYG 23, WSH 20",Alex Smith 325,Wayne Gallman 68,Terry McLaurin 115,401220267,2020,9,False
+7,Houston HOU,Jacksonville JAX,"HOU 27, JAX 25",Jake Luton 304,James Robinson 99,DJ Chark Jr. 146,401220194,2020,9,False
+8,Las Vegas LV,Los Angeles LAC,"LV 31, LAC 26",Justin Herbert 326,Kalen Ballage 69,Keenan Allen 103,401220236,2020,9,False
+9,Pittsburgh PIT,Dallas DAL,"PIT 24, DAL 19",Ben Roethlisberger 306,Tony Pollard 57,JuJu Smith-Schuster 93,401220248,2020,9,False
+10,Miami MIA,Arizona ARI,"MIA 34, ARI 31",Kyler Murray 283,Kyler Murray 106,Christian Kirk 123,401220342,2020,9,False
+11,New Orleans NO,Tampa Bay TB,"NO 38, TB 3",Drew Brees 222,Taysom Hill 54,Mike Evans 64,401220330,2020,9,False
+0,New England NE,New York NYJ,"NE 30, NYJ 27",Cam Newton 274,Damien Harris 71,Jakobi Meyers 169,401220140,2020,9,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Indianapolis IND,Tennessee TEN,"IND 34, TEN 17",Philip Rivers 308,Derrick Henry 103,Michael Pittman Jr. 101,401220203,2020,10,False
+0,Houston HOU,Cleveland CLE,"CLE 10, HOU 7",Deshaun Watson 163,Nick Chubb 126,Rashard Higgins 48,401220165,2020,10,False
+1,Washington WSH,Detroit DET,"DET 30, WSH 27",Alex Smith 390,D'Andre Swift 81,Marvin Jones Jr. 96,401220289,2020,10,False
+2,Jacksonville JAX,Green Bay GB,"GB 24, JAX 20",Aaron Rodgers 325,James Robinson 109,Marquez Valdes-Scantling 149,401220295,2020,10,False
+3,Philadelphia PHI,New York NYG,"NYG 27, PHI 17",Daniel Jones 244,Miles Sanders 85,Darius Slayton 93,401220251,2020,10,False
+4,Tampa Bay TB,Carolina CAR,"TB 46, CAR 23",Tom Brady 341,Ronald Jones II 192,DJ Moore 96,401220368,2020,10,False
+5,Denver DEN,Las Vegas LV,"LV 37, DEN 12",Drew Lock 257,Josh Jacobs 112,Jerry Jeudy 68,401220226,2020,10,False
+6,Los Angeles LAC,Miami MIA,"MIA 29, LAC 21",Justin Herbert 187,Salvon Ahmed 85,Jakeem Grant Sr. 43,401220126,2020,10,False
+7,Buffalo BUF,Arizona ARI,"ARI 32, BUF 30",Josh Allen 284,Kenyan Drake 100,DeAndre Hopkins 127,401220341,2020,10,False
+8,Seattle SEA,Los Angeles LAR,"LAR 23, SEA 16",Jared Goff 302,Russell Wilson 60,Josh Reynolds 94,401220346,2020,10,False
+9,San Francisco SF,New Orleans NO,"NO 27, SF 13",Nick Mullens 247,Latavius Murray 57,Alvin Kamara 83,401220327,2020,10,False
+10,Cincinnati CIN,Pittsburgh PIT,"PIT 36, CIN 10",Ben Roethlisberger 333,Samaje Perine 48,Diontae Johnson 116,401220171,2020,10,False
+11,Baltimore BAL,New England NE,"NE 23, BAL 17",Lamar Jackson 249,Damien Harris 121,Willie Snead IV 64,401220137,2020,10,False
+0,Minnesota MIN,Chicago CHI,"MIN 19, CHI 13",Kirk Cousins 292,Dalvin Cook 96,Justin Jefferson 135,401220276,2020,10,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Arizona ARI,Seattle SEA,"SEA 28, ARI 21",Kyler Murray 269,Carlos Hyde 79,Tyler Lockett 67,401220360,2020,11,False
+0,Philadelphia PHI,Cleveland CLE,"CLE 22, PHI 17",Carson Wentz 235,Nick Chubb 114,Dallas Goedert 77,401220167,2020,11,False
+1,Atlanta ATL,New Orleans NO,"NO 24, ATL 9",Taysom Hill 233,Taysom Hill 49,Michael Thomas 104,401220321,2020,11,False
+2,Cincinnati CIN,Washington WSH,"WSH 20, CIN 9",Joe Burrow 203,Antonio Gibson 94,Tyler Boyd 85,401220272,2020,11,False
+3,Detroit DET,Carolina CAR,"CAR 20, DET 0",P.J. Walker 258,Mike Davis 64,DJ Moore 127,401220318,2020,11,False
+4,Pittsburgh PIT,Jacksonville JAX,"PIT 27, JAX 3",Ben Roethlisberger 267,James Conner 89,Diontae Johnson 111,401220198,2020,11,False
+5,Tennessee TEN,Baltimore BAL,"TEN 30, BAL 24 (OT)",Ryan Tannehill 259,Derrick Henry 133,Corey Davis 113,401220150,2020,11,False
+6,New England NE,Houston HOU,"HOU 27, NE 20",Cam Newton 365,Damien Harris 43,Damiere Byrd 132,401220185,2020,11,False
+7,Miami MIA,Denver DEN,"DEN 20, MIA 13",Drew Lock 270,Melvin Gordon III 84,Tim Patrick 119,401220214,2020,11,False
+8,New York NYJ,Los Angeles LAC,"LAC 34, NYJ 28",Justin Herbert 366,Frank Gore 61,Keenan Allen 145,401220238,2020,11,False
+9,Green Bay GB,Indianapolis IND,"IND 34, GB 31 (OT)",Aaron Rodgers 311,Jonathan Taylor 90,Davante Adams 106,401220191,2020,11,False
+10,Dallas DAL,Minnesota MIN,"DAL 31, MIN 28",Kirk Cousins 314,Dalvin Cook 115,Adam Thielen 123,401220305,2020,11,False
+11,Kansas City KC,Las Vegas LV,"KC 35, LV 31",Patrick Mahomes 348,Clyde Edwards-Helaire 69,Travis Kelce 127,401220227,2020,11,False
+0,Los Angeles LAR,Tampa Bay TB,"LAR 27, TB 24",Jared Goff 376,Ronald Jones II 24,Cooper Kupp 145,401220335,2020,11,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Houston HOU,Detroit DET,"HOU 41, DET 25",Deshaun Watson 318,Adrian Peterson 55,William Fuller V 171,401220287,2020,12,False
+1,Washington WSH,Dallas DAL,"WSH 41, DAL 16",Andy Dalton 215,Antonio Gibson 115,Amari Cooper 112,401220244,2020,12,False
+0,Las Vegas LV,Atlanta ATL,"ATL 43, LV 6",Derek Carr 215,Ito Smith 65,Hunter Renfrow 73,401220312,2020,12,False
+1,Los Angeles LAC,Buffalo BUF,"BUF 27, LAC 17",Justin Herbert 316,Devin Singletary 82,Austin Ekeler 85,401220118,2020,12,False
+2,New York NYG,Cincinnati CIN,"NYG 19, CIN 17",Daniel Jones 213,Wayne Gallman 94,Evan Engram 129,401220160,2020,12,False
+3,Tennessee TEN,Indianapolis IND,"TEN 45, IND 26",Philip Rivers 295,Derrick Henry 178,A.J. Brown 98,401220188,2020,12,False
+4,Carolina CAR,Minnesota MIN,"MIN 28, CAR 27",Kirk Cousins 307,Dalvin Cook 61,Robby Anderson 94,401220302,2020,12,False
+5,Arizona ARI,New England NE,"NE 20, ARI 17",Kyler Murray 170,Kenyan Drake 78,DeAndre Hopkins 55,401220135,2020,12,False
+6,Miami MIA,New York NYJ,"MIA 20, NYJ 3",Ryan Fitzpatrick 257,Frank Gore 74,DeVante Parker 119,401220139,2020,12,False
+7,Cleveland CLE,Jacksonville JAX,"CLE 27, JAX 25",Baker Mayfield 258,Nick Chubb 144,Jarvis Landry 143,401220197,2020,12,False
+8,New Orleans NO,Denver DEN,"NO 31, DEN 3",Taysom Hill 78,Latavius Murray 124,Michael Thomas 50,401220215,2020,12,False
+9,San Francisco SF,Los Angeles LAR,"SF 23, LAR 20",Nick Mullens 252,Cam Akers 84,Deebo Samuel 133,401220345,2020,12,False
+10,Kansas City KC,Tampa Bay TB,"KC 27, TB 24",Patrick Mahomes 462,Ronald Jones II 66,Tyreek Hill 269,401220333,2020,12,False
+11,Chicago CHI,Green Bay GB,"GB 41, CHI 25",Mitchell Trubisky 242,David Montgomery 103,Allen Robinson II 74,401220290,2020,12,False
+0,Seattle SEA,Philadelphia PHI,"SEA 23, PHI 17",Russell Wilson 230,Carson Wentz 42,DK Metcalf 177,401220262,2020,12,False
+0,Baltimore BAL,Pittsburgh PIT,"PIT 19, BAL 14",Ben Roethlisberger 266,Robert Griffin III 68,Marquise Brown 85,401220170,2020,12,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,New Orleans NO,Atlanta ATL,"NO 21, ATL 16",Matt Ryan 273,Alvin Kamara 88,Calvin Ridley 108,401220307,2020,13,False
+1,Detroit DET,Chicago CHI,"DET 34, CHI 30",Matthew Stafford 402,David Montgomery 72,Marvin Jones Jr. 116,401220274,2020,13,False
+2,Cleveland CLE,Tennessee TEN,"CLE 41, TEN 35",Ryan Tannehill 389,Nick Chubb 80,Corey Davis 182,401220205,2020,13,False
+3,Cincinnati CIN,Miami MIA,"MIA 19, CIN 7",Tua Tagovailoa 296,Myles Gaskin 90,Mike Gesicki 88,401220129,2020,13,False
+4,Jacksonville JAX,Minnesota MIN,"MIN 27, JAX 24 (OT)",Kirk Cousins 305,Dalvin Cook 120,Justin Jefferson 121,401220303,2020,13,False
+5,Las Vegas LV,New York NYJ,"LV 31, NYJ 28",Derek Carr 381,Ty Johnson 104,Darren Waller 200,401220142,2020,13,False
+6,Indianapolis IND,Houston HOU,"IND 26, HOU 20",Deshaun Watson 341,Jonathan Taylor 91,Keke Coutee 141,401220178,2020,13,False
+7,Los Angeles LAR,Arizona ARI,"LAR 38, ARI 28",Jared Goff 351,Cam Akers 72,Robert Woods 85,401220336,2020,13,False
+8,New York NYG,Seattle SEA,"NYG 17, SEA 12",Russell Wilson 263,Wayne Gallman 135,DK Metcalf 80,401220364,2020,13,False
+9,Philadelphia PHI,Green Bay GB,"GB 30, PHI 16",Aaron Rodgers 295,Aaron Jones 130,Davante Adams 121,401220297,2020,13,False
+10,New England NE,Los Angeles LAC,"NE 45, LAC 0",Justin Herbert 209,Damien Harris 80,Keenan Allen 48,401220237,2020,13,False
+11,Denver DEN,Kansas City KC,"KC 22, DEN 16",Patrick Mahomes 318,Melvin Gordon III 131,Travis Kelce 136,401220218,2020,13,False
+0,Washington WSH,Pittsburgh PIT,"WSH 23, PIT 17",Ben Roethlisberger 305,Peyton Barber 23,Logan Thomas 98,401220176,2020,13,False
+1,Buffalo BUF,San Francisco SF,"BUF 34, SF 24",Josh Allen 375,Devin Singletary 61,Cole Beasley 130,401220357,2020,13,False
+0,Dallas DAL,Baltimore BAL,"BAL 34, DAL 17",Andy Dalton 285,Gus Edwards 101,Michael Gallup 86,401220151,2020,13,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,New England NE,Los Angeles LAR,"LAR 24, NE 3",Jared Goff 137,Cam Akers 171,N'Keal Harry 49,401220349,2020,14,False
+0,Houston HOU,Chicago CHI,"CHI 36, HOU 7",Mitchell Trubisky 267,David Montgomery 113,Allen Robinson II 123,401220279,2020,14,False
+1,Dallas DAL,Cincinnati CIN,"DAL 30, CIN 7",Brandon Allen 217,Trayveon Williams 49,A.J. Green 62,401220159,2020,14,False
+2,Kansas City KC,Miami MIA,"KC 33, MIA 27",Patrick Mahomes 393,DeAndre Washington 35,Travis Kelce 136,401220125,2020,14,False
+3,Arizona ARI,New York NYG,"ARI 26, NYG 7",Kyler Murray 244,Kenyan Drake 80,DeAndre Hopkins 136,401220253,2020,14,False
+4,Minnesota MIN,Tampa Bay TB,"TB 26, MIN 14",Kirk Cousins 225,Dalvin Cook 102,Irv Smith Jr. 63,401220332,2020,14,False
+5,Denver DEN,Carolina CAR,"DEN 32, CAR 27",Teddy Bridgewater 283,Melvin Gordon III 68,KJ Hamler 86,401220319,2020,14,False
+6,Tennessee TEN,Jacksonville JAX,"TEN 31, JAX 10",Ryan Tannehill 212,Derrick Henry 215,A.J. Brown 112,401220196,2020,14,False
+7,Indianapolis IND,Las Vegas LV,"IND 44, LV 27",Derek Carr 316,Jonathan Taylor 150,Nelson Agholor 100,401220233,2020,14,False
+8,New York NYJ,Seattle SEA,"SEA 40, NYJ 3",Russell Wilson 206,Chris Carson 76,DK Metcalf 61,401220366,2020,14,False
+9,Green Bay GB,Detroit DET,"GB 31, DET 24",Aaron Rodgers 290,Aaron Jones 69,Davante Adams 115,401220283,2020,14,False
+10,New Orleans NO,Philadelphia PHI,"PHI 24, NO 21",Taysom Hill 291,Miles Sanders 115,Michael Thomas 84,401220265,2020,14,False
+11,Atlanta ATL,Los Angeles LAC,"LAC 20, ATL 17",Justin Herbert 243,Austin Ekeler 79,Calvin Ridley 124,401220239,2020,14,False
+12,Washington WSH,San Francisco SF,"WSH 23, SF 15",Nick Mullens 260,J.D. McKissic 68,Brandon Aiyuk 119,401220356,2020,14,False
+13,Pittsburgh PIT,Buffalo BUF,"BUF 26, PIT 15",Josh Allen 238,Zack Moss 43,Stefon Diggs 130,401220121,2020,14,False
+0,Baltimore BAL,Cleveland CLE,"BAL 47, CLE 42",Baker Mayfield 343,Lamar Jackson 124,Mark Andrews 78,401220162,2020,14,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Los Angeles LAC,Las Vegas LV,"LAC 30, LV 27 (OT)",Justin Herbert 314,Marcus Mariota 88,Darren Waller 150,401220228,2020,15,False
+0,Buffalo BUF,Denver DEN,"BUF 48, DEN 19",Josh Allen 359,Zack Moss 81,Stefon Diggs 147,401220213,2020,15,False
+1,Carolina CAR,Green Bay GB,"GB 24, CAR 16",Teddy Bridgewater 258,Aaron Jones 145,DJ Moore 131,401220294,2020,15,False
+0,Tampa Bay TB,Atlanta ATL,"TB 31, ATL 27",Tom Brady 390,Leonard Fournette 49,Calvin Ridley 163,401220308,2020,15,False
+1,San Francisco SF,Dallas DAL,"DAL 41, SF 33",Nick Mullens 219,Tony Pollard 69,Kendrick Bourne 86,401220246,2020,15,False
+2,Detroit DET,Tennessee TEN,"TEN 46, DET 25",Ryan Tannehill 273,Derrick Henry 147,Marvin Jones Jr. 112,401220208,2020,15,False
+3,Houston HOU,Indianapolis IND,"IND 27, HOU 20",Deshaun Watson 373,Jonathan Taylor 83,David Johnson 106,401220186,2020,15,False
+4,New England NE,Miami MIA,"MIA 22, NE 12",Cam Newton 209,Salvon Ahmed 122,Jakobi Meyers 111,401220123,2020,15,False
+5,Chicago CHI,Minnesota MIN,"CHI 33, MIN 27",Kirk Cousins 271,David Montgomery 146,Justin Jefferson 104,401220298,2020,15,False
+6,Seattle SEA,Washington WSH,"SEA 20, WSH 15",Dwayne Haskins Jr. 295,Chris Carson 63,Logan Thomas 101,401220270,2020,15,False
+7,Jacksonville JAX,Baltimore BAL,"BAL 40, JAX 14",Lamar Jackson 243,J.K. Dobbins 64,Marquise Brown 98,401220149,2020,15,False
+8,New York NYJ,Los Angeles LAR,"NYJ 23, LAR 20",Jared Goff 209,Cam Akers 63,Tyler Higbee 67,401220350,2020,15,False
+9,Philadelphia PHI,Arizona ARI,"ARI 33, PHI 26",Kyler Murray 406,Miles Sanders 64,DeAndre Hopkins 169,401220339,2020,15,False
+10,Kansas City KC,New Orleans NO,"KC 32, NO 29",Patrick Mahomes 254,Clyde Edwards-Helaire 79,Emmanuel Sanders 76,401220325,2020,15,False
+11,Cleveland CLE,New York NYG,"CLE 20, NYG 6",Baker Mayfield 297,Nick Chubb 50,Rashard Higgins 76,401220255,2020,15,False
+0,Pittsburgh PIT,Cincinnati CIN,"CIN 27, PIT 17",Ben Roethlisberger 170,Benny Snell Jr. 84,Diontae Johnson 59,401220156,2020,15,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Minnesota MIN,New Orleans NO,"NO 52, MIN 33",Drew Brees 311,Alvin Kamara 155,Adam Thielen 97,401220324,2020,16,False
+0,Tampa Bay TB,Detroit DET,"TB 47, DET 7",Tom Brady 348,Ke'Shawn Vaughn 62,Mike Evans 181,401220286,2020,16,False
+1,San Francisco SF,Arizona ARI,"SF 20, ARI 12",Kyler Murray 247,Jeff Wilson Jr. 183,George Kittle 92,401220337,2020,16,False
+2,Miami MIA,Las Vegas LV,"MIA 26, LV 25",Derek Carr 336,Myles Gaskin 87,Nelson Agholor 155,401220230,2020,16,False
+0,Atlanta ATL,Kansas City KC,"KC 17, ATL 14",Matt Ryan 300,Darrel Williams 46,Calvin Ridley 130,401220223,2020,16,False
+1,Cleveland CLE,New York NYJ,"NYJ 23, CLE 16",Baker Mayfield 285,Frank Gore 48,Jamison Crowder 92,401220145,2020,16,False
+2,Indianapolis IND,Pittsburgh PIT,"PIT 28, IND 24",Ben Roethlisberger 341,Jonathan Taylor 74,JuJu Smith-Schuster 96,401220174,2020,16,False
+3,Chicago CHI,Jacksonville JAX,"CHI 41, JAX 17",Mitchell Trubisky 265,David Montgomery 95,Allen Robinson II 103,401220199,2020,16,False
+4,New York NYG,Baltimore BAL,"BAL 27, NYG 13",Daniel Jones 252,Gus Edwards 85,Sterling Shepard 77,401220152,2020,16,False
+5,Cincinnati CIN,Houston HOU,"CIN 37, HOU 31",Brandon Allen 371,David Johnson 128,Brandin Cooks 141,401220182,2020,16,False
+6,Denver DEN,Los Angeles LAC,"LAC 19, DEN 16",Drew Lock 264,Melvin Gordon III 79,DaeSean Hamilton 77,401220234,2020,16,False
+7,Carolina CAR,Washington WSH,"CAR 20, WSH 13",Teddy Bridgewater 197,Antonio Gibson 61,Curtis Samuel 106,401220273,2020,16,False
+8,Philadelphia PHI,Dallas DAL,"DAL 37, PHI 17",Andy Dalton 377,Ezekiel Elliott 105,Michael Gallup 121,401220243,2020,16,False
+9,Los Angeles LAR,Seattle SEA,"SEA 20, LAR 9",Jared Goff 234,Chris Carson 69,Cooper Kupp 66,401220362,2020,16,False
+10,Tennessee TEN,Green Bay GB,"GB 40, TEN 14",Aaron Rodgers 231,AJ Dillon 124,Davante Adams 142,401220296,2020,16,False
+0,Buffalo BUF,New England NE,"BUF 38, NE 9",Josh Allen 320,Sony Michel 69,Stefon Diggs 145,401220130,2020,16,False
+,away,home,result,passing_leader,rushing_leader,rec_leader,gameId,season,week,IsPostseason
+0,Miami MIA,Buffalo BUF,"BUF 56, MIA 26",Tua Tagovailoa 361,Antonio Williams 63,DeVante Parker 116,401220114,2020,17,False
+1,Baltimore BAL,Cincinnati CIN,"BAL 38, CIN 3",Lamar Jackson 113,J.K. Dobbins 160,Miles Boykin 43,401220154,2020,17,False
+2,Pittsburgh PIT,Cleveland CLE,"CLE 24, PIT 22",Mason Rudolph 315,Nick Chubb 108,Chase Claypool 101,401220164,2020,17,False
+3,Minnesota MIN,Detroit DET,"MIN 37, DET 35",Kirk Cousins 405,Alexander Mattison 95,Marvin Jones Jr. 180,401220284,2020,17,False
+4,New York NYJ,New England NE,"NE 28, NYJ 14",Sam Darnold 266,Cam Newton 79,Breshad Perriman 84,401220132,2020,17,False
+5,Dallas DAL,New York NYG,"NYG 23, DAL 19",Andy Dalton 243,Wayne Gallman 65,Sterling Shepard 112,401220250,2020,17,False
+6,Atlanta ATL,Tampa Bay TB,"TB 44, ATL 27",Tom Brady 399,Brian Hill 94,Antonio Brown 138,401220328,2020,17,False
+7,Green Bay GB,Chicago CHI,"GB 35, CHI 16",Mitchell Trubisky 252,David Montgomery 69,Darnell Mooney 93,401220275,2020,17,False
+8,Las Vegas LV,Denver DEN,"LV 32, DEN 31",Derek Carr 371,Melvin Gordon III 93,Jerry Jeudy 140,401220211,2020,17,False
+9,Jacksonville JAX,Indianapolis IND,"IND 28, JAX 14",Mike Glennon 261,Jonathan Taylor 253,Chris Conley 87,401220187,2020,17,False
+10,Los Angeles LAC,Kansas City KC,"LAC 38, KC 21",Justin Herbert 302,Justin Jackson 72,Mike Williams 108,401220220,2020,17,False
+11,Arizona ARI,Los Angeles LAR,"LAR 18, ARI 7",John Wolford 231,John Wolford 56,Cam Akers 52,401220344,2020,17,False
+12,Seattle SEA,San Francisco SF,"SEA 26, SF 23",C.J. Beathard 273,Jeff Wilson Jr. 76,Tyler Lockett 90,401220354,2020,17,False
+13,New Orleans NO,Carolina CAR,"NO 33, CAR 7",Drew Brees 201,Ty Montgomery 105,Curtis Samuel 118,401220315,2020,17,False
+14,Tennessee TEN,Houston HOU,"TEN 41, HOU 38",Deshaun Watson 365,Derrick Henry 250,Brandin Cooks 166,401220180,2020,17,False
+15,Washington WSH,Philadelphia PHI,"WSH 20, PHI 14",Alex Smith 162,Antonio Gibson 75,Cam Sims 43,401220260,2020,17,False
